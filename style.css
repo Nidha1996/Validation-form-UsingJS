@@ -26,9 +26,9 @@ body{
     padding: 10px 20px;
 }
 .image{
-    background-image: url("./images/background.png"),url("./images/teacher.png"),url("/images/background.png");
+    background-image: url("./images/illustration.webp");
     background-repeat: no-repeat;
-    background-position:right, left ;
+    background-position:center;
     background-size: contain;
     height: 65%;
 }
@@ -171,4 +171,5 @@ button:hover{
     form{
         padding: 20px;
     }
+    
 }
